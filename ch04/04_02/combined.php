@@ -1,7 +1,7 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: admin
- * Date: 11/24/2018
- * Time: 5:34 AM
- */
+$total = 5;
+//$total = $total + 2;
+$total += 2;
+$total -= 3;
+$total *= 4;
+echo $total;
