@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="15879d3e-5e56-4b57-b925-07846f9ebf0a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch08/08_06/includes/somefile.php" beforeDir="false" afterPath="$PROJECT_DIR$/ch08/08_06/includes/somefile.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch08/08_07/undefined_02.php" beforeDir="false" afterPath="$PROJECT_DIR$/ch08/08_07/undefined_02.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch08/08_07/undefined_03.php" beforeDir="false" afterPath="$PROJECT_DIR$/ch08/08_07/undefined_03.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch08/08_07/undefined_04.php" beforeDir="false" afterPath="$PROJECT_DIR$/ch08/08_07/undefined_04.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,13 +51,13 @@
         <counts>
           <entry key="htaccess" value="28" />
           <entry key="html" value="391" />
-          <entry key="php" value="14348" />
+          <entry key="php" value="14510" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="410" />
-          <entry key="PHP" value="14329" />
+          <entry key="PHP" value="14491" />
           <entry key="htaccess" value="28" />
         </counts>
       </usages-collector>
@@ -72,23 +74,31 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ch08/08_07/undefined_02.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="5" selection-start-column="5" selection-end-column="5" />
+            <state relative-caret-position="336">
+              <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ch08/08_07/undefined_03.php">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ch08/08_07/undefined_04.php">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -160,10 +170,10 @@
         <option value="$PROJECT_DIR$/ch08/08_06/styles.css" />
         <option value="$PROJECT_DIR$/ch08/08_06/redirect.php" />
         <option value="$PROJECT_DIR$/ch08/08_06/includes/somefile.php" />
-        <option value="$PROJECT_DIR$/ch08/08_07/undefined_04.php" />
-        <option value="$PROJECT_DIR$/ch08/08_07/undefined_03.php" />
-        <option value="$PROJECT_DIR$/ch08/08_07/undefined_02.php" />
         <option value="$PROJECT_DIR$/ch08/08_07/undefined_01.php" />
+        <option value="$PROJECT_DIR$/ch08/08_07/undefined_02.php" />
+        <option value="$PROJECT_DIR$/ch08/08_07/undefined_03.php" />
+        <option value="$PROJECT_DIR$/ch08/08_07/undefined_04.php" />
       </list>
     </option>
   </component>
@@ -263,12 +273,12 @@
       <workItem from="1543517172513" duration="12276000" />
       <workItem from="1543604903008" duration="3911000" />
       <workItem from="1543633708032" duration="536000" />
-      <workItem from="1543634282375" duration="1197000" />
+      <workItem from="1543634282375" duration="4566000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144861000" />
+    <option name="totallyTimeSpent" value="148230000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="531" y="0" width="841" height="745" extended-state="0" />
@@ -587,16 +597,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch08/08_07/undefined_03.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch08/08_07/undefined_04.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/ch08/08_07/undefined_02.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        <state relative-caret-position="336">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch08/08_07/undefined_03.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch08/08_07/undefined_04.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
         </state>
       </provider>
     </entry>
