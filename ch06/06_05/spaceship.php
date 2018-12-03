@@ -26,6 +26,8 @@ usort($friends, function ($a, $b) {
     <?php
     foreach ($friends as $friend) {
         echo '<li>' . implode(' ', $friend) . '</li>';
+        echo '<li>' .$friend['first'].' '.$friend['last']. '</li>';
+        echo "<li> {$friend['first']}  </li>";
     }
     ?>
 </ul>

@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="15879d3e-5e56-4b57-b925-07846f9ebf0a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch08/08_07/undefined_02.php" beforeDir="false" afterPath="$PROJECT_DIR$/ch08/08_07/undefined_02.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch08/08_07/undefined_03.php" beforeDir="false" afterPath="$PROJECT_DIR$/ch08/08_07/undefined_03.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch08/08_07/undefined_04.php" beforeDir="false" afterPath="$PROJECT_DIR$/ch08/08_07/undefined_04.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch06/06_05/spaceship.php" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/06_05/spaceship.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,29 +18,31 @@
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.51" value="1" />
           <entry key="project.open.time.52" value="1" />
           <entry key="project.open.time.59" value="1" />
           <entry key="project.open.time.61" value="1" />
           <entry key="project.open.time.77" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="5" />
+          <entry key="css" value="6" />
           <entry key="htaccess" value="2" />
           <entry key="html" value="8" />
           <entry key="md" value="1" />
-          <entry key="php" value="92" />
+          <entry key="number_multiplication" value="1" />
+          <entry key="php" value="99" />
           <entry key="vue" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="5" />
+          <entry key="CSS" value="6" />
           <entry key="HTML" value="8" />
           <entry key="Markdown" value="1" />
-          <entry key="PHP" value="92" />
+          <entry key="PHP" value="100" />
           <entry key="Vue.js" value="1" />
           <entry key="htaccess" value="2" />
         </counts>
@@ -51,13 +51,13 @@
         <counts>
           <entry key="htaccess" value="28" />
           <entry key="html" value="391" />
-          <entry key="php" value="14510" />
+          <entry key="php" value="16028" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="410" />
-          <entry key="PHP" value="14491" />
+          <entry key="PHP" value="16009" />
           <entry key="htaccess" value="28" />
         </counts>
       </usages-collector>
@@ -66,37 +66,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch08/08_07/undefined_01.php">
+        <entry file="file://$PROJECT_DIR$/ch09/09_03/begin/contact.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="6" column="69" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch08/08_07/undefined_02.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch08/08_07/undefined_03.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            <state relative-caret-position="126">
+              <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ch08/08_07/undefined_04.php">
+        <entry file="file://$PROJECT_DIR$/ch09/09_03/begin/includes/process_mail.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+            <state relative-caret-position="189">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -123,19 +105,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ch05/05_03/foreach_02.php" />
-        <option value="$PROJECT_DIR$/ch05/05_04/while.php" />
-        <option value="$PROJECT_DIR$/ch05/05_04/for_loop.php" />
-        <option value="$PROJECT_DIR$/ch05/05_04/foreach.php" />
-        <option value="$PROJECT_DIR$/ch05/05_05/multiplication.html" />
-        <option value="$PROJECT_DIR$/ch05/05_05/multiplication.php" />
-        <option value="$PROJECT_DIR$/ch06/waitina.vue" />
         <option value="$PROJECT_DIR$/ch06/functions.php" />
         <option value="$PROJECT_DIR$/ch06/strip_tags.php" />
         <option value="$PROJECT_DIR$/ch06/sort.php" />
         <option value="$PROJECT_DIR$/ch06/06_03/custom.php" />
         <option value="$PROJECT_DIR$/ch06/06_04/function_types.php" />
-        <option value="$PROJECT_DIR$/ch06/06_05/spaceship.php" />
         <option value="$PROJECT_DIR$/ch06/06_05/spaceship_php5.php" />
         <option value="$PROJECT_DIR$/ch06/06_07/date.php" />
         <option value="$PROJECT_DIR$/ch06/06_09/copyright.php" />
@@ -174,6 +148,14 @@
         <option value="$PROJECT_DIR$/ch08/08_07/undefined_02.php" />
         <option value="$PROJECT_DIR$/ch08/08_07/undefined_03.php" />
         <option value="$PROJECT_DIR$/ch08/08_07/undefined_04.php" />
+        <option value="$PROJECT_DIR$/ch06/06_05/spaceship.php" />
+        <option value="$PROJECT_DIR$/ch05/05_05/multiplication.php" />
+        <option value="$PROJECT_DIR$/ch06/06_05/number_multiplication.php" />
+        <option value="$PROJECT_DIR$/ch09/09_01/contact.php" />
+        <option value="$PROJECT_DIR$/ch09/09_02/contact.php" />
+        <option value="$PROJECT_DIR$/ch09/09_03/styles.css" />
+        <option value="$PROJECT_DIR$/ch09/09_03/begin/includes/process_mail.php" />
+        <option value="$PROJECT_DIR$/ch09/09_03/begin/contact.php" />
       </list>
     </option>
   </component>
@@ -184,9 +166,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP7.2.7" />
-  <component name="ProjectFrameBounds">
-    <option name="x" value="531" />
-    <option name="width" value="841" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="574" />
+    <option name="width" value="799" />
     <option name="height" value="745" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -207,13 +189,28 @@
             <path>
               <item name="introducingphp" type="b2602c69:ProjectViewProjectNode" />
               <item name="introducingphp" type="462c0819:PsiDirectoryNode" />
-              <item name="ch08" type="462c0819:PsiDirectoryNode" />
+              <item name="ch09" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="introducingphp" type="b2602c69:ProjectViewProjectNode" />
               <item name="introducingphp" type="462c0819:PsiDirectoryNode" />
-              <item name="ch08" type="462c0819:PsiDirectoryNode" />
-              <item name="08_07" type="462c0819:PsiDirectoryNode" />
+              <item name="ch09" type="462c0819:PsiDirectoryNode" />
+              <item name="09_03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="introducingphp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="introducingphp" type="462c0819:PsiDirectoryNode" />
+              <item name="ch09" type="462c0819:PsiDirectoryNode" />
+              <item name="09_03" type="462c0819:PsiDirectoryNode" />
+              <item name="begin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="introducingphp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="introducingphp" type="462c0819:PsiDirectoryNode" />
+              <item name="ch09" type="462c0819:PsiDirectoryNode" />
+              <item name="09_03" type="462c0819:PsiDirectoryNode" />
+              <item name="begin" type="462c0819:PsiDirectoryNode" />
+              <item name="includes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -232,17 +229,18 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\introducingphp\ch08\08_05\includes" />
-      <recent name="C:\xampp\htdocs\introducingphp\ch07\07_02" />
-      <recent name="C:\xampp\htdocs\introducingphp\ch06\06_01" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\introducingphp\ch09\09_03" />
+      <recent name="C:\xampp\htdocs\introducingphp\ch09\09_02" />
       <recent name="C:\xampp\htdocs\introducingphp\ch08\08_07" />
       <recent name="C:\xampp\htdocs\introducingphp\ch08\08_03" />
       <recent name="C:\xampp\htdocs\introducingphp\ch07\07_06\begin" />
-      <recent name="C:\xampp\htdocs\introducingphp\ch07\07_03" />
-      <recent name="C:\xampp\htdocs\introducingphp\ch05\05_05" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\introducingphp\ch09\09_03\begin" />
+      <recent name="C:\xampp\htdocs\introducingphp\ch08\08_05\includes" />
+      <recent name="C:\xampp\htdocs\introducingphp\ch07\07_02" />
+      <recent name="C:\xampp\htdocs\introducingphp\ch06\06_01" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -273,18 +271,19 @@
       <workItem from="1543517172513" duration="12276000" />
       <workItem from="1543604903008" duration="3911000" />
       <workItem from="1543633708032" duration="536000" />
-      <workItem from="1543634282375" duration="4566000" />
+      <workItem from="1543634282375" duration="8451000" />
+      <workItem from="1543718306300" duration="13252000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="148230000" />
+    <option name="totallyTimeSpent" value="165367000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="531" y="0" width="841" height="745" extended-state="0" />
+    <frame x="574" y="0" width="799" height="745" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.17925736" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24492557" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -313,69 +312,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ch05/05_05/multiplication.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="24" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch06/06_01/sort.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch06/06_03/custom.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch06/06_04/function_types.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch06/06_05/spaceship.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="7" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch06/06_05/spaceship_php5.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch06/06_07/date.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch06/06_09/copyright.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="11" selection-start-line="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch07/07_02/includes/copyright.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ch07/07_02/linked.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -613,8 +549,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ch08/08_07/undefined_04.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        <state relative-caret-position="147">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch06/06_05/spaceship.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch06/06_05/number_multiplication" />
+    <entry file="file://$PROJECT_DIR$/ch05/05_05/multiplication.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch06/06_05/number_multiplication.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch09/09_01/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="n#p#2;n#form#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch09/09_02/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch09/09_03/begin/styles.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch09/09_03/begin/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch09/09_03/begin/includes/process_mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
         </state>
       </provider>
     </entry>
