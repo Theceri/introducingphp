@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15879d3e-5e56-4b57-b925-07846f9ebf0a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="15879d3e-5e56-4b57-b925-07846f9ebf0a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +32,7 @@
           <entry key="html" value="8" />
           <entry key="md" value="1" />
           <entry key="number_multiplication" value="1" />
-          <entry key="php" value="114" />
+          <entry key="php" value="118" />
           <entry key="vue" value="2" />
         </counts>
       </usages-collector>
@@ -43,7 +41,7 @@
           <entry key="CSS" value="7" />
           <entry key="HTML" value="8" />
           <entry key="Markdown" value="1" />
-          <entry key="PHP" value="115" />
+          <entry key="PHP" value="119" />
           <entry key="Vue.js" value="2" />
           <entry key="htaccess" value="2" />
         </counts>
@@ -52,13 +50,13 @@
         <counts>
           <entry key="htaccess" value="28" />
           <entry key="html" value="391" />
-          <entry key="php" value="20007" />
+          <entry key="php" value="20866" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="410" />
-          <entry key="PHP" value="19988" />
+          <entry key="PHP" value="20847" />
           <entry key="htaccess" value="28" />
         </counts>
       </usages-collector>
@@ -67,10 +65,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ch10/10_04/contact.php">
+        <entry file="file://$PROJECT_DIR$/ch10/10_06/contact.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="87" column="27" selection-start-line="87" selection-start-column="27" selection-end-line="87" selection-end-column="27" />
+            <state relative-caret-position="255">
+              <caret line="107" column="12" lean-forward="true" selection-start-line="107" selection-start-column="12" selection-end-line="107" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -94,6 +92,7 @@
       <find>won't say</find>
       <find>checked</find>
       <find>comment</find>
+      <find>please fix the item(s) indicated</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -102,8 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ch06/06_07/date.php" />
-        <option value="$PROJECT_DIR$/ch06/06_09/copyright.php" />
         <option value="$PROJECT_DIR$/ch07/07_02/includes/pata.html" />
         <option value="$PROJECT_DIR$/ch07/07_02/styles.css" />
         <option value="$PROJECT_DIR$/ch07/07_02/includes/copyright.php" />
@@ -153,6 +150,8 @@
         <option value="$PROJECT_DIR$/ch10/10_02/contact.php" />
         <option value="$PROJECT_DIR$/ch10/10_03/contact.php" />
         <option value="$PROJECT_DIR$/ch10/10_04/contact.php" />
+        <option value="$PROJECT_DIR$/ch10/10_05/contact.php" />
+        <option value="$PROJECT_DIR$/ch10/10_06/contact.php" />
       </list>
     </option>
   </component>
@@ -163,7 +162,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP7.2.7" />
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="568" />
     <option name="width" value="804" />
     <option name="height" value="745" />
@@ -188,19 +187,6 @@
               <item name="introducingphp" type="b2602c69:ProjectViewProjectNode" />
               <item name="introducingphp" type="462c0819:PsiDirectoryNode" />
               <item name="ch10" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="introducingphp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="introducingphp" type="462c0819:PsiDirectoryNode" />
-              <item name="ch10" type="462c0819:PsiDirectoryNode" />
-              <item name="10_04" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="introducingphp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="introducingphp" type="462c0819:PsiDirectoryNode" />
-              <item name="ch10" type="462c0819:PsiDirectoryNode" />
-              <item name="10_04" type="462c0819:PsiDirectoryNode" />
-              <item name="includes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -264,18 +250,17 @@
       <workItem from="1543634282375" duration="8451000" />
       <workItem from="1543718306300" duration="13252000" />
       <workItem from="1543851878126" duration="5274000" />
-      <workItem from="1543977270585" duration="21936000" />
+      <workItem from="1543977270585" duration="32174000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="192577000" />
+    <option name="totallyTimeSpent" value="202815000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="568" y="0" width="804" height="745" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24432677" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13691376" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -288,8 +273,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3267974" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32352942" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32352942" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32843137" />
       <window_info anchor="bottom" id="PHP-CGI Server" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -304,26 +289,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ch07/07_05/artists.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch07/07_05/venue.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch07/07_05/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
-          <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch07/07_06/begin/includes/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="7" column="266" selection-start-line="7" selection-start-column="266" selection-end-line="7" selection-end-column="266" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ch07/07_06/begin/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -594,8 +559,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ch10/10_04/contact.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
+        <state relative-caret-position="43">
           <caret line="87" column="27" selection-start-line="87" selection-start-column="27" selection-end-line="87" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch10/10_05/includes/process_mail.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch10/10_05/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="95" column="18" selection-start-line="95" selection-start-column="18" selection-end-line="95" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch10/10_06/includes/process_mail.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch10/10_06/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="107" column="12" lean-forward="true" selection-start-line="107" selection-start-column="12" selection-end-line="107" selection-end-column="12" />
         </state>
       </provider>
     </entry>
